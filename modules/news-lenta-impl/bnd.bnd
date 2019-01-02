@@ -1,0 +1,6 @@
+Bundle-Name: Lenta news implementation
+Bundle-SymbolicName: com.softwerke.lenta
+Import-Package: com.softwerke.api, com.softwerke.util
+Bundle-Vendor: Softwerke
+Bundle-Version: 1.0.0
+-includeresource: META-INF/lib/gson.jar=gson-[0-9]*.jar;lib:=true

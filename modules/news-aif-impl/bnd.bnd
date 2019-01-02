@@ -1,0 +1,5 @@
+Bundle-Name: Aif news implementation
+Bundle-SymbolicName: com.softwerke.aif
+Import-Package: com.softwerke.api, com.softwerke.util, javax.xml.parsers, org.w3c.dom, org.xml.sax
+Bundle-Vendor: Softwerke
+Bundle-Version: 1.0.0

@@ -1,0 +1,4 @@
+Bundle-Name: Top News Titles
+Bundle-SymbolicName: com.softwerke.news
+Export-Package: com.softwerke.util, com.softwerke.api
+Bundle-Version: 1.0.0
